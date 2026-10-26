@@ -14,7 +14,7 @@ Decodo’s residential proxy offering supports rotating or sticky sessions, loca
 
 Use the distinction when budgeting. If you already operate a scraper, evaluate how the proxy fits its session behavior and geography. If you need parsing or browser automation, include that separate work in your comparison instead of assuming a proxy subscription handles the entire pipeline.
 
-### 👉 [Explore Decodo residential options and current offers](https://go.272738.xyz/smartproxy?src=gh_coupon_decodo)
+### 👉 [Explore Decodo residential options and current offers](https://go.272738.xyz/smartproxy?src=gh_coupon_decodo_cta1)
 
 ---
 
@@ -33,7 +33,7 @@ Prices exclude VAT. This table covers the listed regular residential options, no
 
 Source: [Decodo (formerly Smartproxy) official pricing](https://decodo.com/proxies/residential-proxies). USD unless stated otherwise. Examples below are calculations, not customer results.
 
-### 👉 [See today’s Decodo bandwidth packages](https://go.272738.xyz/smartproxy?src=gh_coupon_decodo)
+### 👉 [See today’s Decodo bandwidth packages](https://go.272738.xyz/smartproxy?src=gh_coupon_decodo_cta2)
 
 ---
 
@@ -45,7 +45,7 @@ Source: [Decodo (formerly Smartproxy) official pricing](https://decodo.com/proxi
 
 **Do not upgrade to fix an unmeasured failure.** For an illustrative 1,000-page job, reducing transferred data from 2 MB per page to 0.5 MB reduces nominal payload from 2 GB to 0.5 GB using decimal units. Actual billed traffic can differ. Measure the provider’s usage meter and successful outputs before extrapolating.
 
-### 👉 [Find the Decodo package that fits your actual usage](https://go.272738.xyz/smartproxy?src=gh_coupon_decodo)
+### 👉 [Find the Decodo package that fits your actual usage](https://go.272738.xyz/smartproxy?src=gh_coupon_decodo_cta3)
 
 ---
 
@@ -69,4 +69,4 @@ The cheapest total depends on consumption. Estimate a low, expected, and high mo
 
 ---
 
-### 👉 [Compare Decodo pricing before buying another gigabyte](https://go.272738.xyz/smartproxy?src=gh_coupon_decodo)
+### 👉 [Compare Decodo pricing before buying another gigabyte](https://go.272738.xyz/smartproxy?src=gh_coupon_decodo_cta4)
